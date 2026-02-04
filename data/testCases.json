@@ -1,0 +1,50 @@
+{
+    "credentials": {
+      "username": "admin",
+      "password": "password123"
+    },
+    "cases": [
+      {
+        "id": "TC1",
+        "board": "Web Application",
+        "column": "To Do",
+        "cardTitle": "Implement user authentication",
+        "tags": ["Feature", "High Priority"]
+      },
+      {
+        "id": "TC2",
+        "board": "Web Application",
+        "column": "To Do",
+        "cardTitle": "Fix navigation bug",
+        "tags": [ ]
+},
+{
+    "id": "TC3",
+    "board": "Web Application",
+    "column": "In Progress",
+    "cardTitle": "Design system updates",
+    "tags": ["Design"]
+},
+{
+    "id": "TC4",
+    "board": "Mobile Application",
+    "column": "To Do",
+    "cardTitle": "Push notification system",
+    "tags": ["Feature"]
+},
+{
+    "id": "TC5",
+    "board": "Mobile Application",
+    "column": "In Progress",
+    "cardTitle": "Offline mode",
+    "tags": ["Feature", "High Priority"]
+},
+{
+    "id": "TC6",
+    "board": "Mobile Application",
+    "column": "Done",
+    "cardTitle": "App icon design",
+    "tags": ["Design"]
+}
+    ]
+  }
