@@ -18,7 +18,7 @@ The framework validates tasks and tags inside a demo kanban-style web applicatio
 - pages/ LoginPage.js (Login page actions & assertions)
          BoardPage.js (Board navigation & card validation)
   
-- tests/tasks.spec.js (# Test runner that consumes JSON data)
+- tests/tasks.spec.js (Test runner that consumes JSON data)
 - playwright.config.js
 - package-lock.json
 
